@@ -117,8 +117,8 @@ def brute_sudoku(b):
     return b
 
 sol = brute_sudoku(b)
-        
-                        
+
+#This line is a test of my git skills
                         
                         
                         
